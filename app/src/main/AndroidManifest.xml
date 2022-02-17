@@ -17,8 +17,7 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name="com.ShapeShifter420.dt_test.SecondActivity"
-            android:exported="false"> </activity>
+        <activity android:name="com.ShapeShifter420.dt_test.SecondActivity"> </activity>
     </application>
 
 </manifest>
